@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharika Rajan </h1>
 
-<h3 align="center">A Passionate Computer Science Engineering Student</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikarajan07&label=Profile%20views&color=0e75b6&style=flat" alt="sharikarajan07" /> </p>
 
