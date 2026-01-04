@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikarajan07&label=Profile%20views&color=0e75b6&style=flat" alt="sharikarajan07" /> </p>
 
 - 🌱 I’m currently learning AI
-- 🤖 Passionate about learning AI, ML, Data Analysis and building meaningful projects
-- 💡 Always exploring: NumPy | Pandas | Scikit-Learn | Matplotlib
+- 🤖 Passionate about learning AI, ML, Data Analysis and building meaningful projects on web development
+- 💡 Always exploring: Java Springboot| React Vite| Nextjs
   
 
 ## 🌐 Connect With Me
