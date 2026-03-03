@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikarajan07&label=Profile%20views&color=0e75b6&style=flat" alt="sharikarajan07" /> </p>
 
-- 🌱 I’m currently learning AI
-- 🤖 Passionate about learning AI, ML, Data Analysis and building meaningful projects on web development
-- 💡 Always exploring: Java Springboot| React Vite| Nextjs
+- 🌱 I’m a curious learner
+- 🤖 Passionate about learning frontend and backend development and also using Artificial Intelligence to build meaningful projects 
+- 💡 Always exploring: Java Springboot| React Vite| Nodejs| PostgreSQL|
   
 
 ## 🌐 Connect With Me
