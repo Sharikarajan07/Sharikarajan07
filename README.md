@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sharika Rajan </h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikarajan07&label=Profile%20views&color=0e75b6&style=flat" alt="sharikarajan07" /> </p>
 
-- 🌱 I’m a curious learner
-- 🤖 Passionate about learning frontend and backend development and also using Artificial Intelligence to build meaningful projects 
-- 💡 Always exploring: Java Springboot| React Vite| Nodejs| PostgreSQL|
+💻 Full Stack (MERN) Developer passionate about building scalable and efficient web applications 
+
+🏆 SIH Hackathon Winner | 🏆 Naan Mudhalvan Hackathon Winner  
+
+- 🔭 Currently working on full stack development projects  
+- 🌱 Focused on backend development, system design, and real-world applications  
+- ⚡ Strong interest in building impactful and production-ready solutions  
   
 
 ## 🌐 Connect With Me
@@ -19,7 +23,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
