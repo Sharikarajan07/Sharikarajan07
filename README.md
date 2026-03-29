@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharika Rajan </h1>
 
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikarajan07&label=Profile%20views&color=0e75b6&style=flat" alt="sharikarajan07" /> </p>
 
@@ -53,7 +53,11 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharikarajan07&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 
 
