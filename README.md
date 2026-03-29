@@ -38,11 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharikarajan07&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Sharikarajan07&show_icons=true&theme=radical" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sharikarajan07&theme=radical)
+<img src="https://streak-stats.demolab.com?user=Sharikarajan07&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharikarajan07&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharikarajan07&layout=compact&theme=radical" />
 
 
 
